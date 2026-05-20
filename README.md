@@ -1,6 +1,4 @@
-# COMP2007-cw2
-
-This is my coursework 70% report.
+This is a C++ game made with OpenGL without a game engine.
 
 # Itch.io link:
 
