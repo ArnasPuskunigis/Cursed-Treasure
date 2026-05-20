@@ -1,4 +1,4 @@
-This is a C++ game made with OpenGL without a game engine.
+This is a 3D, 3rd person shooting game made with the Unity game engine about defeating waves of enemies written in C#.
 
 # Itch.io link:
 
