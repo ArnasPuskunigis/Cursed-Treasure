@@ -1,4 +1,4 @@
-This is a 3D, 3rd person shooting game made with the Unity game engine about defeating waves of enemies written in C#.
+This is a 3D, 3rd person shooting and boat driving game made with the Unity C# game engine about defeating waves of enemies.
 
 # Itch.io link:
 
